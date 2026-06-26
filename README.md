@@ -1,12 +1,13 @@
 # CAKE: Context-Aware Kid Emotion In-the-Wild Dataset
 
-*The 20th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2026)*
-
-[[Paper]](https://cake-dataset.github.io/) [[Poster]](http://www.google.com)
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/11557063) *The 20th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2026)*
 
 ## Overview
 
-**Context-Aware Kid Emotion (CAKE)** is a multimodal in-the-wild dataset featuring children between 4 - 12 years in interactive social settings.
+**Context-Aware Kid Emotion (CAKE)** is a multimodal in-the-wild dataset featuring children between 4 and 12 years old in interactive social settings. The dataset contains 259 video clips from movies with diverse and rich emotion annotations:
+- 12 discrete emotions
+- valence-arousal scales
+- textual descriptions
 
 ## Examples of Different Expressions in CAKE
 <table border="1">
@@ -32,25 +33,17 @@
 - The authors reserve the right to terminate your access to the dataset at any time.
 
 ## How to access CAKE
-To gain permission for dataset access, please complete the following steps:
-1. Download the [End-User License Agreement (EULA)](#link-to-eula)
-2. All required information at the end of the document must be fully completed and signed. For students (including PhD candidates), the document must be signed by your academic supervisor.
-3. Send the completed and signed agreement to **your.email@university.edu** using your institutional email address.
-
-```
-Subject: Request for access to CAKE
-
-Full Name: <Your First and Last Name>
-Affiliation: <Your University or Institution>
-Department: <Your Department>
-Position: <e.g., PhD Student, Professor, Researcher>
-
-I have read and agree to the terms and conditions in the EULA.
-This dataset will be used strictly for academic and non-commercial research purposes.
-I will not disclose or make any part of this dataset available to any third party,
-nor will I profit from its use in any capacity.
-```
-*Please remember to attach your signed EULA to the email.*
+*Coming Soon...*
 
 ## Citation
 If you use this dataset in your research, please cite our paper:
+```
+@inproceedings{poovongsaroj2026cake,
+  title={{CAKE}: Context-Aware Kid Emotion In-the-Wild Dataset},
+  author={Poovongsaroj, Sornsiri and Zeng, Zhuo and Cummins, Nicholas and Celiktutan, Oya},
+  booktitle={2026 IEEE 20th International Conference on Automatic Face and Gesture Recognition ({FG})},
+  pages={1--5},
+  year={2026},
+  organization={IEEE}
+}
+```
