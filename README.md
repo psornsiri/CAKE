@@ -4,7 +4,7 @@
 
 ## Overview
 
-**Context-Aware Kid Emotion (CAKE)** is a multimodal in-the-wild dataset featuring children between 4 and 12 years old in interactive social settings. The dataset contains 259 video clips from movies with diverse and rich emotion annotations:
+**Context-Aware Kid Emotion (CAKE)** is a multimodal in-the-wild dataset featuring children between 4 and 12 years old in interactive social settings. The dataset contains 259 video clips extracted from movies and labeled with diverse and rich emotion annotations:
 - 12 discrete emotions
 - valence-arousal scales
 - textual descriptions
