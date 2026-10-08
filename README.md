@@ -33,7 +33,25 @@
 - The authors reserve the right to terminate your access to the dataset at any time.
 
 ## How to access CAKE
-*Coming Soon...*
+To gain permission for dataset access, please complete the following steps:
+1. Download the [End-User License Agreement (EULA)](CAKE-EULA.pdf)
+2. All required information at the end of the document must be fully completed and signed. For students (including PhD candidates), the document must be signed by your academic supervisor.
+3. Send the completed and signed agreement to **your.email@university.edu** using your institutional email address.
+
+```
+Subject: Request for access to CAKE
+
+Full Name: <Your First and Last Name>
+Affiliation: <Your University or Institution>
+Department: <Your Department>
+Position: <e.g., PhD Student, Professor, Researcher>
+
+I have read and agree to the terms and conditions in the EULA.
+This dataset will be used strictly for academic and non-commercial research purposes.
+I will not disclose or make any part of this dataset available to any third party,
+nor will I profit from its use in any capacity.
+```
+*Please remember to attach your signed EULA to the email.*
 
 ## Citation
 If you use this dataset in your research, please cite our paper:
